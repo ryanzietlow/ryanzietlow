@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Coordinator @ Queen's Data Analytics Assosciation
 ----------------------------------------------------------------------
 
-Hello there! I'm a second-year student at Queen's University, immersing myself in the exciting realms of sports analytics, finance, AI, computer architecture, and chip design. 🏒💻 
+Hello there! I'm a third-year student at Queen's University, immersing myself in the exciting realms of sports analytics, finance, AI, computer architecture, and chip design. 🏒💻 
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [linkedin.com/in/zietlowryan](mailto:linkedin.com/in/zietlowryan)
