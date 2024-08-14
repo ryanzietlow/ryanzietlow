@@ -6,14 +6,6 @@ Software Engineering Coordinator @ Queen's Data Analytics Assosciation
 
 Hello there! I'm a second-year student at Queen's University, immersing myself in the exciting realms of sports analytics, finance, AI, computer architecture, and chip design. 🏒💻 
 
-My journey involves decoding the intricacies of sports data and the inner workings of modern technology through advanced computational techniques. 
-
-I'm dedicated to sharpening my skills in data analysis, hardware design, and the programming languages that drive the future of tech and sports analytics. 🎓🔍 
-
-I thrive at the intersection of technology and athletics. My GitHub repository is a playground where I showcase my coding endeavors, documenting projects and innovative ideas as I navigate the challenges of this field. 
-
-🤝 Let's connect and collaborate on projects that bridge the gap between sports and technology, pushing the boundaries of what's possible in the realm of computer engineering and sports science. 🚀🏅 Excited to contribute to the dynamic landscape of sports analytics through the power of code! 💪📊
-
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [linkedin.com/in/zietlowryan](mailto:linkedin.com/in/zietlowryan)
 * 🧠  I'm learning SQL, R, and AWS
