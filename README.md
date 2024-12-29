@@ -8,7 +8,6 @@ Hello there! I'm a third-year student at Queen's University, immersing myself in
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [linkedin.com/in/zietlowryan](mailto:linkedin.com/in/zietlowryan)
-* 🧠  I'm learning SQL, R, and AWS
 * 🤝  I'm open to collaborating on any projects
 
 ### Languages and Tools
